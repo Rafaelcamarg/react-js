@@ -1,0 +1,44 @@
+
+
+.PrimeiroComponente {
+    background: rgba(0, 0, 0, 1);
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.0);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    border-radius: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.0);
+    padding: 17%;
+    color: #000000;
+    text-align: center;
+}
+
+.PrimeiroComponente img {
+    width: 75px;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.PrimeiroComponente h1   {
+    color: #d3d3d3;
+    padding: 0.5rem;
+    font-size: 1.5rem;
+    margin-bottom: 0.3rem;
+    margin-top: 0.3rem;
+    font-weight: bolder;
+}
+
+.PrimeiroComponente h2 {
+    color: #d3d3d3;
+    padding: 0.5rem;
+    font-size: 1.5rem;
+    margin-bottom: 0.3rem;
+    margin-top: 0.3rem;
+    font-weight: bolder;
+}
+
+.PrimeiroComponente p {
+    color: #d3d3d3;
+    text-align: center;
+    padding: 0.5rem;
+    font-size: 1.5rem;
+}
